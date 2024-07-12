@@ -1,6 +1,6 @@
 import React from "react";
 
-// for the header one
+// for the header 
 const Header =(props)=>{
   console.log(props)
   return(
@@ -9,7 +9,7 @@ const Header =(props)=>{
     </div>
   )
 }
-// for the content one
+// for the content 
 const Content = (props) => {
   return (
     <div>
